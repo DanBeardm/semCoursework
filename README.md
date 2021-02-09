@@ -1,4 +1,4 @@
-**Software Engineering Methods CourseWork by Team 4**
+**Software Engineering Methods CourseWork by TEAM 4**
 
 Contributors:
 
