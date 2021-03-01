@@ -1,0 +1,18 @@
+@startuml
+
+actor rep as "Reporter"
+
+rectangle Database
+
+rectangle "World News Report" {
+    usecase UC1 as "Get countries
+    or cities by population "
+
+    usecase UCa as "Print countries
+    or cities"
+
+    rep - UC1
+    UC1 ..> UCa : include
+    UC1 - Database
+}
+@enduml
