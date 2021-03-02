@@ -2,7 +2,7 @@
 
 Contributors:
 
-*Pawel, Albert, Dan, Jagoda* 
+*Pawel, Albert, Dan* 
 
 
 Master: 
