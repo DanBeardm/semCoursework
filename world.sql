@@ -29,7 +29,7 @@ USE `world`;
 --
 -- Table structure for table `city`
 --
-
+/*deletes the table if 'city' exists*/
 DROP TABLE IF EXISTS `city`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
