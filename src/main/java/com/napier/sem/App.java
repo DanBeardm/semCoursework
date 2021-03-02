@@ -1,9 +1,28 @@
 package com.napier.sem;
 
+import java.sql.*;
+import java.util.ArrayList;
+
+/**
+ * Main class of the Application
+ */
+
 public class App
 {
+
     public static void main(String[] args)
     {
-        System.out.println("Hello World");
+        // Create a new DB instance
+        Database db = new Database();
+
+        // Connect to database
+        db.connect();
+        db.getCountriesWorldFromLargest();
+
+        // Disconnect from database
+        db.disconnect();
+
     }
+
+
 }
