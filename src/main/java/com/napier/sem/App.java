@@ -31,7 +31,8 @@ public class App
         //Display Capital City Population
         //db.getCapCityPopulation();
         //db.getCapCityPopulationContinent();
-        db.getCapCityPopulationRegion();
+        //db.getCapCityPopulationRegion();
+        db.getCapCityPopSpec(5);
 
         // Disconnect from database
         db.disconnect();
