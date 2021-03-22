@@ -31,7 +31,7 @@ public class Database {
         int retries = 10;
         for (int i = 0; i < retries; ++i)
         {
-            System.out.println("Connecting to database... 2");
+            System.out.println("Connecting to database...");
             try
             {
                 // Wait a bit for db to start
@@ -298,8 +298,6 @@ public class Database {
 
     public void getCapCityPopulation()
     {
-        System.out.println("Capital City Population yes");
-
         try{
 
             // Create an SQL statement
@@ -329,6 +327,40 @@ public class Database {
 
         }catch (Exception e)
         {
+            System.out.println(e.getMessage());
+            System.out.println("Failed");
+        }
+    }
+    public void getCapCityPopulationContinent()
+    {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // Create string for SQL statement
+            String strSelect = "SELECT c1.Name, country.Name, c1.Population "
+                    + "FROM city c1 "
+                    + "JOIN country ON country.Capital = c1.ID "
+                    + "WHERE country.Continent = 'Europe' "
+                    + "ORDER BY c1.Population DESC ";
+
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            ArrayList<CapitalCity> CapCities = new ArrayList<>();
+            while (rset.next()) {
+                CapitalCity c = new CapitalCity();
+                c.city_name = rset.getString("c1.Name");
+                c.country_name = rset.getString("country.Name");
+                c.city_population = rset.getInt("c1.Population");
+
+                CapCities.add(c);
+            }
+
+            for (CapitalCity c : CapCities) {
+                System.out.println(c);
+            }
+
+        } catch (Exception e) {
             System.out.println(e.getMessage());
             System.out.println("Failed");
         }
