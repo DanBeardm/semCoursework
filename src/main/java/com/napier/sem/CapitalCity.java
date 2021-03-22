@@ -1,6 +1,6 @@
 package com.napier.sem;
 
-public class City {
+public class CapitalCity {
     /**
      *  Name
      */
@@ -12,11 +12,6 @@ public class City {
     public String country_name;
 
     /**
-     *  District
-     */
-    public String city_district;
-
-    /**
      *  Population
      */
     public Integer city_population;
@@ -25,7 +20,6 @@ public class City {
     public String toString() {
         return (this.city_name + "\t"
                 + this.country_name + "\t"
-                + this.city_district + "\t"
                 + this.city_population+ "\t"
         );
     }

@@ -17,9 +17,20 @@ public class App
 
         // Connect to database
         db.connect();
+
+        //Display Countries
         //db.getCountriesWorldFromLargest();
+
+        //Display City population
         //db.getCityPopulationWorld();
-        db.getCityPopulationContinent();
+        //db.getCityPopulationContinent();
+        //db.getCityPopulationRegion();
+        //db.getCityPopulationCountry();
+        //db.getCityPopulationDistrict();
+
+        //Display Capital City Population
+        db.getCapCityPopulation();
+
         // Disconnect from database
         db.disconnect();
 
