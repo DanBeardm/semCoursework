@@ -31,7 +31,7 @@ public class Database {
         int retries = 10;
         for (int i = 0; i < retries; ++i)
         {
-            System.out.println("Connecting to database...");
+            System.out.println("Connecting to database... 4");
             try
             {
                 // Wait a bit for db to start
@@ -74,7 +74,7 @@ public class Database {
 
     /**
      * Gets all the countries sorted from Largest
-     * @return A list of sorted countries
+     * return A list of sorted countries
      */
     public void getCountriesWorldFromLargest()
     {
@@ -84,7 +84,8 @@ public class Database {
             Statement stmt = con.createStatement();
 
             String strSelect = "SELECT Code, Name, Continent, Region, Population, Capital "
-                                +"FROM country ORDER BY Population DESC";
+                                +"FROM country ORDER BY Population DESC "
+                                +"LIMIT 10";
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
@@ -92,17 +93,20 @@ public class Database {
             while(rset.next()) {
                 Country c = new Country();
                 c.country_code = rset.getString("country.Code");
-                c.country_capital = rset.getString("country.Capital");
-                c.country_population = rset.getInt("country.Population");
                 c.country_name = rset.getString("country.Name");
                 c.country_continent = rset.getString("country.Continent");
                 c.country_region = rset.getString("country.Region");
+                c.country_population = rset.getInt("country.Population");
+                c.country_capital = rset.getString("country.Capital");
+
                 countries.add(c);
+
             }
 
             for (Country c: countries) {
                 System.out.println(c);
             }
+
         } catch (Exception e)
         {
             System.out.println(e.getMessage());
@@ -110,5 +114,77 @@ public class Database {
         }
 
 
+
+    }
+
+    public void getCityPopulationWorld()
+    {
+        try{
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // Create string for SQL statement
+            String strSelect = "SELECT c1.Name, country.Name, c1.District, c1.Population "
+                                + "FROM city c1 "
+                                + "JOIN country ON country.Code = c1.CountryCode "
+                                + "ORDER BY c1.Population DESC ";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            ArrayList<City> cities = new ArrayList<>();
+            while(rset.next()) {
+                City c = new City();
+                c.city_name = rset.getString("c1.Name");
+                c.country_name = rset.getString("country.Name");
+                c.city_district = rset.getString("c1.District");
+                c.city_population = rset.getInt("c1.Population");
+
+                cities.add(c);
+            }
+
+            for (City c: cities) {
+                System.out.println(c);
+            }
+
+        }catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed");
+        }
+    }
+
+    public void getCityPopulationContinent()
+    {
+        try{
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // Create string for SQL statement
+            String strSelect = "SELECT c1.Name, country.Name, c1.District, c1.Population "
+                    + "FROM city c1 "
+                    + "JOIN country ON country.Code = c1.CountryCode "
+                    + "WHERE country.Continent = 'Europe' "
+                    + "ORDER BY c1.Population DESC ";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            ArrayList<City> cities = new ArrayList<>();
+            while(rset.next()) {
+                City c = new City();
+                c.city_name = rset.getString("c1.Name");
+                c.country_name = rset.getString("country.Name");
+                c.city_district = rset.getString("c1.District");
+                c.city_population = rset.getInt("c1.Population");
+
+                cities.add(c);
+            }
+
+            for (City c: cities) {
+                System.out.println(c);
+            }
+
+        }catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed");
+        }
     }
 }

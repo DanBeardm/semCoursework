@@ -100,11 +100,11 @@ public class Country {
     @Override
     public String toString() {
         return (this.country_code + "\t"
-                + this.country_capital + "\t"
-                + this.country_population + "\t"
                 + this.country_name + "\t"
                 + this.country_continent + "\t"
                 + this.country_region + "\t"
+                + this.country_population + "\t"
+                + this.country_capital + "\t"
         );
     }
 }
