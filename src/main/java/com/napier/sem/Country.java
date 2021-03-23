@@ -42,69 +42,27 @@ public class Country {
      */
     public String country_region;
 
-    /**
-     *   Surface
-     */
-    public double country_surface;
-
-    /**
-     *   Independence
-     */
-    public int country_independence;
 
     /**
      *   Population
      */
     public int country_population;
 
-    /**
-     *   Life expectancy
-     */
-    public double country_life_expectancy;
-
-    /**
-     *   Gross Domestic Product
-     */
-    public double country_gnp;
-
-    /**
-     *   Gross Domestic Product Old
-     */
-    public double country_gnp_old;
-
-    /**
-     *   Local Name
-     */
-    public String local_name;
-
-    /**
-     *   Government Form
-     */
-    public String country_government;
-
-    /**
-     *   Head of state
-     */
-    public String country_head_of_state;
 
     /**
      *   Capital
      */
     public String country_capital;
 
-    /**
-     *   Code 2
-     */
-    public String country_code2;
 
     @Override
     public String toString() {
-        return (this.country_code + "\t"
-                + this.country_capital + "\t"
-                + this.country_population + "\t"
-                + this.country_name + "\t"
-                + this.country_continent + "\t"
-                + this.country_region + "\t"
+        return (this.country_code + "\t | \t"
+                + this.country_capital + "\t | \t"
+                + this.country_population + "\t | \t"
+                + this.country_name + "\t | \t"
+                + this.country_continent + "\t | \t"
+                + this.country_region + "\t | \t"
         );
     }
 }

@@ -16,3 +16,8 @@ Dev:
 Release:
 
 [![Releases](https://img.shields.io/github/release/DanBeardm/semCoursework/all.svg?style=flat-square)](https://github.com//DanBeardm/semCoursework/releases)
+
+
+CodeCov:
+
+[![codecov](https://codecov.io/gh/Albert-Hadacek/semCoursework/branch/master/graph/badge.svg?token=0NHW8M0JHF)](https://codecov.io/gh/Albert-Hadacek/semCoursework)

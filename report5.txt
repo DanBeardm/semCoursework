@@ -1,0 +1,6 @@
+The top N populated countries in a continent where N is provided by the user
+RUS	 | 	3580	 | 	146934000	 | 	Russian Federation	 | 	Europe	 | 	Eastern Europe	 | 	
+DEU	 | 	3068	 | 	82164700	 | 	Germany	 | 	Europe	 | 	Western Europe	 | 	
+GBR	 | 	456	 | 	59623400	 | 	United Kingdom	 | 	Europe	 | 	British Islands	 | 	
+FRA	 | 	2974	 | 	59225700	 | 	France	 | 	Europe	 | 	Western Europe	 | 	
+ITA	 | 	1464	 | 	57680000	 | 	Italy	 | 	Europe	 | 	Southern Europe	 | 	
