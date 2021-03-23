@@ -1,0 +1,6 @@
+The top N populated countries in a region where N is provided by the user
+RUS	 | 	3580	 | 	146934000	 | 	Russian Federation	 | 	Europe	 | 	Eastern Europe	 | 	
+UKR	 | 	3426	 | 	50456000	 | 	Ukraine	 | 	Europe	 | 	Eastern Europe	 | 	
+POL	 | 	2928	 | 	38653600	 | 	Poland	 | 	Europe	 | 	Eastern Europe	 | 	
+ROM	 | 	3018	 | 	22455500	 | 	Romania	 | 	Europe	 | 	Eastern Europe	 | 	
+CZE	 | 	3339	 | 	10278100	 | 	Czech Republic	 | 	Europe	 | 	Eastern Europe	 | 	
