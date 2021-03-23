@@ -17,7 +17,7 @@ public class App
 
         // Connect to database
         if(args.length < 1) {
-            db.connect("0.0.0.0:49156");
+            db.connect("localhost:33060");
         } else {
             db.connect(args[0]);
         }
@@ -25,8 +25,8 @@ public class App
 
 
         // Get user Input
-        int n = OutputInput.getValue();
-
+        //int n = OutputInput.getValue();
+        int n = 5;
 
         // ********** Report Generation **********
 
