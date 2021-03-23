@@ -17,7 +17,7 @@ public class AppIntegrationTest
     static void init()
     {
         db = new Database();
-        db.connect("0.0.0.0:49154");
+        db.connect("0.0.0.0:49156");
 
     }
 

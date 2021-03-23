@@ -17,7 +17,7 @@ public class App
 
         // Connect to database
         if(args.length < 1) {
-            db.connect("0.0.0.0:49154");
+            db.connect("0.0.0.0:49156");
         } else {
             db.connect(args[0]);
         }
