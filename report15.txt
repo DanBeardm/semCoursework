@@ -1,0 +1,2 @@
+The top N populated cities in a district where N is provided by the user.
+Praha	 | 	Czech Republic	 | 	Hlavní mesto Praha	 | 	1181126
