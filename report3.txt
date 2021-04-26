@@ -1,0 +1,240 @@
+All the countries in a region organised by largest population to smallest
+ATA	 | 	null	 | 	0	 | 	Antarctica	 | 	Antarctica	 | 	Antarctica	 | 	
+ATF	 | 	null	 | 	0	 | 	French Southern territories	 | 	Antarctica	 | 	Antarctica	 | 	
+BVT	 | 	null	 | 	0	 | 	Bouvet Island	 | 	Antarctica	 | 	Antarctica	 | 	
+HMD	 | 	null	 | 	0	 | 	Heard Island and McDonald Islands	 | 	Antarctica	 | 	Antarctica	 | 	
+SGS	 | 	null	 | 	0	 | 	South Georgia and the South Sandwich Islands	 | 	Antarctica	 | 	Antarctica	 | 	
+AUS	 | 	135	 | 	18886000	 | 	Australia	 | 	Oceania	 | 	Australia and New Zealand	 | 	
+NZL	 | 	3499	 | 	3862000	 | 	New Zealand	 | 	Oceania	 | 	Australia and New Zealand	 | 	
+CXR	 | 	1791	 | 	2500	 | 	Christmas Island	 | 	Oceania	 | 	Australia and New Zealand	 | 	
+NFK	 | 	2806	 | 	2000	 | 	Norfolk Island	 | 	Oceania	 | 	Australia and New Zealand	 | 	
+CCK	 | 	2317	 | 	600	 | 	Cocos (Keeling) Islands	 | 	Oceania	 | 	Australia and New Zealand	 | 	
+LTU	 | 	2447	 | 	3698500	 | 	Lithuania	 | 	Europe	 | 	Baltic Countries	 | 	
+LVA	 | 	2434	 | 	2424200	 | 	Latvia	 | 	Europe	 | 	Baltic Countries	 | 	
+EST	 | 	3791	 | 	1439200	 | 	Estonia	 | 	Europe	 | 	Baltic Countries	 | 	
+GBR	 | 	456	 | 	59623400	 | 	United Kingdom	 | 	Europe	 | 	British Islands	 | 	
+IRL	 | 	1447	 | 	3775100	 | 	Ireland	 | 	Europe	 | 	British Islands	 | 	
+CUB	 | 	2413	 | 	11201000	 | 	Cuba	 | 	North America	 | 	Caribbean	 | 	
+DOM	 | 	587	 | 	8495000	 | 	Dominican Republic	 | 	North America	 | 	Caribbean	 | 	
+HTI	 | 	929	 | 	8222000	 | 	Haiti	 | 	North America	 | 	Caribbean	 | 	
+PRI	 | 	2919	 | 	3869000	 | 	Puerto Rico	 | 	North America	 | 	Caribbean	 | 	
+JAM	 | 	1530	 | 	2583000	 | 	Jamaica	 | 	North America	 | 	Caribbean	 | 	
+TTO	 | 	3336	 | 	1295000	 | 	Trinidad and Tobago	 | 	North America	 | 	Caribbean	 | 	
+GLP	 | 	919	 | 	456000	 | 	Guadeloupe	 | 	North America	 | 	Caribbean	 | 	
+MTQ	 | 	2508	 | 	395000	 | 	Martinique	 | 	North America	 | 	Caribbean	 | 	
+BHS	 | 	148	 | 	307000	 | 	Bahamas	 | 	North America	 | 	Caribbean	 | 	
+BRB	 | 	174	 | 	270000	 | 	Barbados	 | 	North America	 | 	Caribbean	 | 	
+ANT	 | 	33	 | 	217000	 | 	Netherlands Antilles	 | 	North America	 | 	Caribbean	 | 	
+LCA	 | 	3065	 | 	154000	 | 	Saint Lucia	 | 	North America	 | 	Caribbean	 | 	
+VCT	 | 	3066	 | 	114000	 | 	Saint Vincent and the Grenadines	 | 	North America	 | 	Caribbean	 | 	
+ABW	 | 	129	 | 	103000	 | 	Aruba	 | 	North America	 | 	Caribbean	 | 	
+GRD	 | 	916	 | 	94000	 | 	Grenada	 | 	North America	 | 	Caribbean	 | 	
+VIR	 | 	4067	 | 	93000	 | 	Virgin Islands, U.S.	 | 	North America	 | 	Caribbean	 | 	
+DMA	 | 	586	 | 	71000	 | 	Dominica	 | 	North America	 | 	Caribbean	 | 	
+ATG	 | 	63	 | 	68000	 | 	Antigua and Barbuda	 | 	North America	 | 	Caribbean	 | 	
+CYM	 | 	553	 | 	38000	 | 	Cayman Islands	 | 	North America	 | 	Caribbean	 | 	
+KNA	 | 	3064	 | 	38000	 | 	Saint Kitts and Nevis	 | 	North America	 | 	Caribbean	 | 	
+VGB	 | 	537	 | 	21000	 | 	Virgin Islands, British	 | 	North America	 | 	Caribbean	 | 	
+TCA	 | 	3423	 | 	17000	 | 	Turks and Caicos Islands	 | 	North America	 | 	Caribbean	 | 	
+MSR	 | 	2697	 | 	11000	 | 	Montserrat	 | 	North America	 | 	Caribbean	 | 	
+AIA	 | 	62	 | 	8000	 | 	Anguilla	 | 	North America	 | 	Caribbean	 | 	
+COD	 | 	2298	 | 	51654000	 | 	Congo, The Democratic Republic of the	 | 	Africa	 | 	Central Africa	 | 	
+CMR	 | 	1804	 | 	15085000	 | 	Cameroon	 | 	Africa	 | 	Central Africa	 | 	
+AGO	 | 	56	 | 	12878000	 | 	Angola	 | 	Africa	 | 	Central Africa	 | 	
+TCD	 | 	3337	 | 	7651000	 | 	Chad	 | 	Africa	 | 	Central Africa	 | 	
+CAF	 | 	1889	 | 	3615000	 | 	Central African Republic	 | 	Africa	 | 	Central Africa	 | 	
+COG	 | 	2296	 | 	2943000	 | 	Congo	 | 	Africa	 | 	Central Africa	 | 	
+GAB	 | 	902	 | 	1226000	 | 	Gabon	 | 	Africa	 | 	Central Africa	 | 	
+GNQ	 | 	2972	 | 	453000	 | 	Equatorial Guinea	 | 	Africa	 | 	Central Africa	 | 	
+STP	 | 	3172	 | 	147000	 | 	Sao Tome and Principe	 | 	Africa	 | 	Central Africa	 | 	
+MEX	 | 	2515	 | 	98881000	 | 	Mexico	 | 	North America	 | 	Central America	 | 	
+GTM	 | 	922	 | 	11385000	 | 	Guatemala	 | 	North America	 | 	Central America	 | 	
+HND	 | 	933	 | 	6485000	 | 	Honduras	 | 	North America	 | 	Central America	 | 	
+SLV	 | 	645	 | 	6276000	 | 	El Salvador	 | 	North America	 | 	Central America	 | 	
+NIC	 | 	2734	 | 	5074000	 | 	Nicaragua	 | 	North America	 | 	Central America	 | 	
+CRI	 | 	584	 | 	4023000	 | 	Costa Rica	 | 	North America	 | 	Central America	 | 	
+PAN	 | 	2882	 | 	2856000	 | 	Panama	 | 	North America	 | 	Central America	 | 	
+BLZ	 | 	185	 | 	241000	 | 	Belize	 | 	North America	 | 	Central America	 | 	
+ETH	 | 	756	 | 	62565000	 | 	Ethiopia	 | 	Africa	 | 	Eastern Africa	 | 	
+TZA	 | 	3306	 | 	33517000	 | 	Tanzania	 | 	Africa	 | 	Eastern Africa	 | 	
+KEN	 | 	1881	 | 	30080000	 | 	Kenya	 | 	Africa	 | 	Eastern Africa	 | 	
+UGA	 | 	3425	 | 	21778000	 | 	Uganda	 | 	Africa	 | 	Eastern Africa	 | 	
+MOZ	 | 	2698	 | 	19680000	 | 	Mozambique	 | 	Africa	 | 	Eastern Africa	 | 	
+MDG	 | 	2455	 | 	15942000	 | 	Madagascar	 | 	Africa	 | 	Eastern Africa	 | 	
+ZWE	 | 	4068	 | 	11669000	 | 	Zimbabwe	 | 	Africa	 | 	Eastern Africa	 | 	
+MWI	 | 	2462	 | 	10925000	 | 	Malawi	 | 	Africa	 | 	Eastern Africa	 | 	
+SOM	 | 	3214	 | 	10097000	 | 	Somalia	 | 	Africa	 | 	Eastern Africa	 | 	
+ZMB	 | 	3162	 | 	9169000	 | 	Zambia	 | 	Africa	 | 	Eastern Africa	 | 	
+RWA	 | 	3047	 | 	7733000	 | 	Rwanda	 | 	Africa	 | 	Eastern Africa	 | 	
+BDI	 | 	552	 | 	6695000	 | 	Burundi	 | 	Africa	 | 	Eastern Africa	 | 	
+ERI	 | 	652	 | 	3850000	 | 	Eritrea	 | 	Africa	 | 	Eastern Africa	 | 	
+MUS	 | 	2511	 | 	1158000	 | 	Mauritius	 | 	Africa	 | 	Eastern Africa	 | 	
+REU	 | 	3017	 | 	699000	 | 	Réunion	 | 	Africa	 | 	Eastern Africa	 | 	
+DJI	 | 	585	 | 	638000	 | 	Djibouti	 | 	Africa	 | 	Eastern Africa	 | 	
+COM	 | 	2295	 | 	578000	 | 	Comoros	 | 	Africa	 | 	Eastern Africa	 | 	
+MYT	 | 	2514	 | 	149000	 | 	Mayotte	 | 	Africa	 | 	Eastern Africa	 | 	
+SYC	 | 	3206	 | 	77000	 | 	Seychelles	 | 	Africa	 | 	Eastern Africa	 | 	
+IOT	 | 	null	 | 	0	 | 	British Indian Ocean Territory	 | 	Africa	 | 	Eastern Africa	 | 	
+CHN	 | 	1891	 | 	1277558000	 | 	China	 | 	Asia	 | 	Eastern Asia	 | 	
+JPN	 | 	1532	 | 	126714000	 | 	Japan	 | 	Asia	 | 	Eastern Asia	 | 	
+KOR	 | 	2331	 | 	46844000	 | 	South Korea	 | 	Asia	 | 	Eastern Asia	 | 	
+PRK	 | 	2318	 | 	24039000	 | 	North Korea	 | 	Asia	 | 	Eastern Asia	 | 	
+TWN	 | 	3263	 | 	22256000	 | 	Taiwan	 | 	Asia	 | 	Eastern Asia	 | 	
+HKG	 | 	937	 | 	6782000	 | 	Hong Kong	 | 	Asia	 | 	Eastern Asia	 | 	
+MNG	 | 	2696	 | 	2662000	 | 	Mongolia	 | 	Asia	 | 	Eastern Asia	 | 	
+MAC	 | 	2454	 | 	473000	 | 	Macao	 | 	Asia	 | 	Eastern Asia	 | 	
+RUS	 | 	3580	 | 	146934000	 | 	Russian Federation	 | 	Europe	 | 	Eastern Europe	 | 	
+UKR	 | 	3426	 | 	50456000	 | 	Ukraine	 | 	Europe	 | 	Eastern Europe	 | 	
+POL	 | 	2928	 | 	38653600	 | 	Poland	 | 	Europe	 | 	Eastern Europe	 | 	
+ROM	 | 	3018	 | 	22455500	 | 	Romania	 | 	Europe	 | 	Eastern Europe	 | 	
+CZE	 | 	3339	 | 	10278100	 | 	Czech Republic	 | 	Europe	 | 	Eastern Europe	 | 	
+BLR	 | 	3520	 | 	10236000	 | 	Belarus	 | 	Europe	 | 	Eastern Europe	 | 	
+HUN	 | 	3483	 | 	10043200	 | 	Hungary	 | 	Europe	 | 	Eastern Europe	 | 	
+BGR	 | 	539	 | 	8190900	 | 	Bulgaria	 | 	Europe	 | 	Eastern Europe	 | 	
+SVK	 | 	3209	 | 	5398700	 | 	Slovakia	 | 	Europe	 | 	Eastern Europe	 | 	
+MDA	 | 	2690	 | 	4380000	 | 	Moldova	 | 	Europe	 | 	Eastern Europe	 | 	
+PNG	 | 	2884	 | 	4807000	 | 	Papua New Guinea	 | 	Oceania	 | 	Melanesia	 | 	
+FJI	 | 	764	 | 	817000	 | 	Fiji Islands	 | 	Oceania	 | 	Melanesia	 | 	
+SLB	 | 	3161	 | 	444000	 | 	Solomon Islands	 | 	Oceania	 | 	Melanesia	 | 	
+NCL	 | 	3493	 | 	214000	 | 	New Caledonia	 | 	Oceania	 | 	Melanesia	 | 	
+VUT	 | 	3537	 | 	190000	 | 	Vanuatu	 | 	Oceania	 | 	Melanesia	 | 	
+GUM	 | 	921	 | 	168000	 | 	Guam	 | 	Oceania	 | 	Micronesia	 | 	
+FSM	 | 	2689	 | 	119000	 | 	Micronesia, Federated States of	 | 	Oceania	 | 	Micronesia	 | 	
+KIR	 | 	2256	 | 	83000	 | 	Kiribati	 | 	Oceania	 | 	Micronesia	 | 	
+MNP	 | 	2913	 | 	78000	 | 	Northern Mariana Islands	 | 	Oceania	 | 	Micronesia	 | 	
+MHL	 | 	2507	 | 	64000	 | 	Marshall Islands	 | 	Oceania	 | 	Micronesia	 | 	
+PLW	 | 	2881	 | 	19000	 | 	Palau	 | 	Oceania	 | 	Micronesia	 | 	
+NRU	 | 	2728	 | 	12000	 | 	Nauru	 | 	Oceania	 | 	Micronesia	 | 	
+UMI	 | 	null	 | 	0	 | 	United States Minor Outlying Islands	 | 	Oceania	 | 	Micronesia/Caribbean	 | 	
+TUR	 | 	3358	 | 	66591000	 | 	Turkey	 | 	Asia	 | 	Middle East	 | 	
+IRQ	 | 	1365	 | 	23115000	 | 	Iraq	 | 	Asia	 | 	Middle East	 | 	
+SAU	 | 	3173	 | 	21607000	 | 	Saudi Arabia	 | 	Asia	 | 	Middle East	 | 	
+YEM	 | 	1780	 | 	18112000	 | 	Yemen	 | 	Asia	 | 	Middle East	 | 	
+SYR	 | 	3250	 | 	16125000	 | 	Syria	 | 	Asia	 | 	Middle East	 | 	
+AZE	 | 	144	 | 	7734000	 | 	Azerbaijan	 | 	Asia	 | 	Middle East	 | 	
+ISR	 | 	1450	 | 	6217000	 | 	Israel	 | 	Asia	 | 	Middle East	 | 	
+JOR	 | 	1786	 | 	5083000	 | 	Jordan	 | 	Asia	 | 	Middle East	 | 	
+GEO	 | 	905	 | 	4968000	 | 	Georgia	 | 	Asia	 | 	Middle East	 | 	
+ARM	 | 	126	 | 	3520000	 | 	Armenia	 | 	Asia	 | 	Middle East	 | 	
+LBN	 | 	2438	 | 	3282000	 | 	Lebanon	 | 	Asia	 | 	Middle East	 | 	
+PSE	 | 	4074	 | 	3101000	 | 	Palestine	 | 	Asia	 | 	Middle East	 | 	
+OMN	 | 	2821	 | 	2542000	 | 	Oman	 | 	Asia	 | 	Middle East	 | 	
+ARE	 | 	65	 | 	2441000	 | 	United Arab Emirates	 | 	Asia	 | 	Middle East	 | 	
+KWT	 | 	2429	 | 	1972000	 | 	Kuwait	 | 	Asia	 | 	Middle East	 | 	
+CYP	 | 	2430	 | 	754700	 | 	Cyprus	 | 	Asia	 | 	Middle East	 | 	
+BHR	 | 	149	 | 	617000	 | 	Bahrain	 | 	Asia	 | 	Middle East	 | 	
+QAT	 | 	2973	 | 	599000	 | 	Qatar	 | 	Asia	 | 	Middle East	 | 	
+SWE	 | 	3048	 | 	8861400	 | 	Sweden	 | 	Europe	 | 	Nordic Countries	 | 	
+DNK	 | 	3315	 | 	5330000	 | 	Denmark	 | 	Europe	 | 	Nordic Countries	 | 	
+FIN	 | 	3236	 | 	5171300	 | 	Finland	 | 	Europe	 | 	Nordic Countries	 | 	
+NOR	 | 	2807	 | 	4478500	 | 	Norway	 | 	Europe	 | 	Nordic Countries	 | 	
+ISL	 | 	1449	 | 	279000	 | 	Iceland	 | 	Europe	 | 	Nordic Countries	 | 	
+FRO	 | 	901	 | 	43000	 | 	Faroe Islands	 | 	Europe	 | 	Nordic Countries	 | 	
+SJM	 | 	938	 | 	3200	 | 	Svalbard and Jan Mayen	 | 	Europe	 | 	Nordic Countries	 | 	
+USA	 | 	3813	 | 	278357000	 | 	United States	 | 	North America	 | 	North America	 | 	
+CAN	 | 	1822	 | 	31147000	 | 	Canada	 | 	North America	 | 	North America	 | 	
+BMU	 | 	191	 | 	65000	 | 	Bermuda	 | 	North America	 | 	North America	 | 	
+GRL	 | 	917	 | 	56000	 | 	Greenland	 | 	North America	 | 	North America	 | 	
+SPM	 | 	3067	 | 	7000	 | 	Saint Pierre and Miquelon	 | 	North America	 | 	North America	 | 	
+EGY	 | 	608	 | 	68470000	 | 	Egypt	 | 	Africa	 | 	Northern Africa	 | 	
+DZA	 | 	35	 | 	31471000	 | 	Algeria	 | 	Africa	 | 	Northern Africa	 | 	
+SDN	 | 	3225	 | 	29490000	 | 	Sudan	 | 	Africa	 | 	Northern Africa	 | 	
+MAR	 | 	2486	 | 	28351000	 | 	Morocco	 | 	Africa	 | 	Northern Africa	 | 	
+TUN	 | 	3349	 | 	9586000	 | 	Tunisia	 | 	Africa	 | 	Northern Africa	 | 	
+LBY	 | 	2441	 | 	5605000	 | 	Libyan Arab Jamahiriya	 | 	Africa	 | 	Northern Africa	 | 	
+ESH	 | 	2453	 | 	293000	 | 	Western Sahara	 | 	Africa	 | 	Northern Africa	 | 	
+PYF	 | 	3016	 | 	235000	 | 	French Polynesia	 | 	Oceania	 | 	Polynesia	 | 	
+WSM	 | 	3169	 | 	180000	 | 	Samoa	 | 	Oceania	 | 	Polynesia	 | 	
+TON	 | 	3334	 | 	99000	 | 	Tonga	 | 	Oceania	 | 	Polynesia	 | 	
+ASM	 | 	54	 | 	68000	 | 	American Samoa	 | 	Oceania	 | 	Polynesia	 | 	
+COK	 | 	583	 | 	20000	 | 	Cook Islands	 | 	Oceania	 | 	Polynesia	 | 	
+WLF	 | 	3536	 | 	15000	 | 	Wallis and Futuna	 | 	Oceania	 | 	Polynesia	 | 	
+TUV	 | 	3424	 | 	12000	 | 	Tuvalu	 | 	Oceania	 | 	Polynesia	 | 	
+NIU	 | 	2805	 | 	2000	 | 	Niue	 | 	Oceania	 | 	Polynesia	 | 	
+TKL	 | 	3333	 | 	2000	 | 	Tokelau	 | 	Oceania	 | 	Polynesia	 | 	
+PCN	 | 	2912	 | 	50	 | 	Pitcairn	 | 	Oceania	 | 	Polynesia	 | 	
+BRA	 | 	211	 | 	170115000	 | 	Brazil	 | 	South America	 | 	South America	 | 	
+COL	 | 	2257	 | 	42321000	 | 	Colombia	 | 	South America	 | 	South America	 | 	
+ARG	 | 	69	 | 	37032000	 | 	Argentina	 | 	South America	 | 	South America	 | 	
+PER	 | 	2890	 | 	25662000	 | 	Peru	 | 	South America	 | 	South America	 | 	
+VEN	 | 	3539	 | 	24170000	 | 	Venezuela	 | 	South America	 | 	South America	 | 	
+CHL	 | 	554	 | 	15211000	 | 	Chile	 | 	South America	 | 	South America	 | 	
+ECU	 | 	594	 | 	12646000	 | 	Ecuador	 | 	South America	 | 	South America	 | 	
+BOL	 | 	194	 | 	8329000	 | 	Bolivia	 | 	South America	 | 	South America	 | 	
+PRY	 | 	2885	 | 	5496000	 | 	Paraguay	 | 	South America	 | 	South America	 | 	
+URY	 | 	3492	 | 	3337000	 | 	Uruguay	 | 	South America	 | 	South America	 | 	
+GUY	 | 	928	 | 	861000	 | 	Guyana	 | 	South America	 | 	South America	 | 	
+SUR	 | 	3243	 | 	417000	 | 	Suriname	 | 	South America	 | 	South America	 | 	
+GUF	 | 	3014	 | 	181000	 | 	French Guiana	 | 	South America	 | 	South America	 | 	
+FLK	 | 	763	 | 	2000	 | 	Falkland Islands	 | 	South America	 | 	South America	 | 	
+IDN	 | 	939	 | 	212107000	 | 	Indonesia	 | 	Asia	 | 	Southeast Asia	 | 	
+VNM	 | 	3770	 | 	79832000	 | 	Vietnam	 | 	Asia	 | 	Southeast Asia	 | 	
+PHL	 | 	766	 | 	75967000	 | 	Philippines	 | 	Asia	 | 	Southeast Asia	 | 	
+THA	 | 	3320	 | 	61399000	 | 	Thailand	 | 	Asia	 | 	Southeast Asia	 | 	
+MMR	 | 	2710	 | 	45611000	 | 	Myanmar	 | 	Asia	 | 	Southeast Asia	 | 	
+MYS	 | 	2464	 | 	22244000	 | 	Malaysia	 | 	Asia	 | 	Southeast Asia	 | 	
+KHM	 | 	1800	 | 	11168000	 | 	Cambodia	 | 	Asia	 | 	Southeast Asia	 | 	
+LAO	 | 	2432	 | 	5433000	 | 	Laos	 | 	Asia	 | 	Southeast Asia	 | 	
+SGP	 | 	3208	 | 	3567000	 | 	Singapore	 | 	Asia	 | 	Southeast Asia	 | 	
+TMP	 | 	1522	 | 	885000	 | 	East Timor	 | 	Asia	 | 	Southeast Asia	 | 	
+BRN	 | 	538	 | 	328000	 | 	Brunei	 | 	Asia	 | 	Southeast Asia	 | 	
+ZAF	 | 	716	 | 	40377000	 | 	South Africa	 | 	Africa	 | 	Southern Africa	 | 	
+LSO	 | 	2437	 | 	2153000	 | 	Lesotho	 | 	Africa	 | 	Southern Africa	 | 	
+NAM	 | 	2726	 | 	1726000	 | 	Namibia	 | 	Africa	 | 	Southern Africa	 | 	
+BWA	 | 	204	 | 	1622000	 | 	Botswana	 | 	Africa	 | 	Southern Africa	 | 	
+SWZ	 | 	3244	 | 	1008000	 | 	Swaziland	 | 	Africa	 | 	Southern Africa	 | 	
+IND	 | 	1109	 | 	1013662000	 | 	India	 | 	Asia	 | 	Southern and Central Asia	 | 	
+PAK	 | 	2831	 | 	156483000	 | 	Pakistan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+BGD	 | 	150	 | 	129155000	 | 	Bangladesh	 | 	Asia	 | 	Southern and Central Asia	 | 	
+IRN	 | 	1380	 | 	67702000	 | 	Iran	 | 	Asia	 | 	Southern and Central Asia	 | 	
+UZB	 | 	3503	 | 	24318000	 | 	Uzbekistan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+NPL	 | 	2729	 | 	23930000	 | 	Nepal	 | 	Asia	 | 	Southern and Central Asia	 | 	
+AFG	 | 	1	 | 	22720000	 | 	Afghanistan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+LKA	 | 	3217	 | 	18827000	 | 	Sri Lanka	 | 	Asia	 | 	Southern and Central Asia	 | 	
+KAZ	 | 	1864	 | 	16223000	 | 	Kazakstan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+TJK	 | 	3261	 | 	6188000	 | 	Tajikistan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+KGZ	 | 	2253	 | 	4699000	 | 	Kyrgyzstan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+TKM	 | 	3419	 | 	4459000	 | 	Turkmenistan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+BTN	 | 	192	 | 	2124000	 | 	Bhutan	 | 	Asia	 | 	Southern and Central Asia	 | 	
+MDV	 | 	2463	 | 	286000	 | 	Maldives	 | 	Asia	 | 	Southern and Central Asia	 | 	
+ITA	 | 	1464	 | 	57680000	 | 	Italy	 | 	Europe	 | 	Southern Europe	 | 	
+ESP	 | 	653	 | 	39441700	 | 	Spain	 | 	Europe	 | 	Southern Europe	 | 	
+YUG	 | 	1792	 | 	10640000	 | 	Yugoslavia	 | 	Europe	 | 	Southern Europe	 | 	
+GRC	 | 	2401	 | 	10545700	 | 	Greece	 | 	Europe	 | 	Southern Europe	 | 	
+PRT	 | 	2914	 | 	9997600	 | 	Portugal	 | 	Europe	 | 	Southern Europe	 | 	
+HRV	 | 	2409	 | 	4473000	 | 	Croatia	 | 	Europe	 | 	Southern Europe	 | 	
+BIH	 | 	201	 | 	3972000	 | 	Bosnia and Herzegovina	 | 	Europe	 | 	Southern Europe	 | 	
+ALB	 | 	34	 | 	3401200	 | 	Albania	 | 	Europe	 | 	Southern Europe	 | 	
+MKD	 | 	2460	 | 	2024000	 | 	Macedonia	 | 	Europe	 | 	Southern Europe	 | 	
+SVN	 | 	3212	 | 	1987800	 | 	Slovenia	 | 	Europe	 | 	Southern Europe	 | 	
+MLT	 | 	2484	 | 	380200	 | 	Malta	 | 	Europe	 | 	Southern Europe	 | 	
+AND	 | 	55	 | 	78000	 | 	Andorra	 | 	Europe	 | 	Southern Europe	 | 	
+SMR	 | 	3171	 | 	27000	 | 	San Marino	 | 	Europe	 | 	Southern Europe	 | 	
+GIB	 | 	915	 | 	25000	 | 	Gibraltar	 | 	Europe	 | 	Southern Europe	 | 	
+VAT	 | 	3538	 | 	1000	 | 	Holy See (Vatican City State)	 | 	Europe	 | 	Southern Europe	 | 	
+NGA	 | 	2754	 | 	111506000	 | 	Nigeria	 | 	Africa	 | 	Western Africa	 | 	
+GHA	 | 	910	 | 	20212000	 | 	Ghana	 | 	Africa	 | 	Western Africa	 | 	
+CIV	 | 	2814	 | 	14786000	 | 	Côte d’Ivoire	 | 	Africa	 | 	Western Africa	 | 	
+BFA	 | 	549	 | 	11937000	 | 	Burkina Faso	 | 	Africa	 | 	Western Africa	 | 	
+MLI	 | 	2482	 | 	11234000	 | 	Mali	 | 	Africa	 | 	Western Africa	 | 	
+NER	 | 	2738	 | 	10730000	 | 	Niger	 | 	Africa	 | 	Western Africa	 | 	
+SEN	 | 	3198	 | 	9481000	 | 	Senegal	 | 	Africa	 | 	Western Africa	 | 	
+GIN	 | 	926	 | 	7430000	 | 	Guinea	 | 	Africa	 | 	Western Africa	 | 	
+BEN	 | 	187	 | 	6097000	 | 	Benin	 | 	Africa	 | 	Western Africa	 | 	
+SLE	 | 	3207	 | 	4854000	 | 	Sierra Leone	 | 	Africa	 | 	Western Africa	 | 	
+TGO	 | 	3332	 | 	4629000	 | 	Togo	 | 	Africa	 | 	Western Africa	 | 	
+LBR	 | 	2440	 | 	3154000	 | 	Liberia	 | 	Africa	 | 	Western Africa	 | 	
+MRT	 | 	2509	 | 	2670000	 | 	Mauritania	 | 	Africa	 | 	Western Africa	 | 	
+GMB	 | 	904	 | 	1305000	 | 	Gambia	 | 	Africa	 | 	Western Africa	 | 	
+GNB	 | 	927	 | 	1213000	 | 	Guinea-Bissau	 | 	Africa	 | 	Western Africa	 | 	
+CPV	 | 	1859	 | 	428000	 | 	Cape Verde	 | 	Africa	 | 	Western Africa	 | 	
+SHN	 | 	3063	 | 	6000	 | 	Saint Helena	 | 	Africa	 | 	Western Africa	 | 	
+DEU	 | 	3068	 | 	82164700	 | 	Germany	 | 	Europe	 | 	Western Europe	 | 	
+FRA	 | 	2974	 | 	59225700	 | 	France	 | 	Europe	 | 	Western Europe	 | 	
+NLD	 | 	5	 | 	15864000	 | 	Netherlands	 | 	Europe	 | 	Western Europe	 | 	
+BEL	 | 	179	 | 	10239000	 | 	Belgium	 | 	Europe	 | 	Western Europe	 | 	
+AUT	 | 	1523	 | 	8091800	 | 	Austria	 | 	Europe	 | 	Western Europe	 | 	
+CHE	 | 	3248	 | 	7160400	 | 	Switzerland	 | 	Europe	 | 	Western Europe	 | 	
+LUX	 | 	2452	 | 	435700	 | 	Luxembourg	 | 	Europe	 | 	Western Europe	 | 	
+MCO	 | 	2695	 | 	34000	 | 	Monaco	 | 	Europe	 | 	Western Europe	 | 	
+LIE	 | 	2446	 | 	32300	 | 	Liechtenstein	 | 	Europe	 | 	Western Europe	 | 	

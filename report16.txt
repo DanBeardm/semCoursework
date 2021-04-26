@@ -1,0 +1,6 @@
+The top N populated cities in a region where N is provided by the user.
+Moscow	 | 	Russian Federation	 | 	Moscow (City)	 | 	8389200
+St Petersburg	 | 	Russian Federation	 | 	Pietari	 | 	4694000
+Kyiv	 | 	Ukraine	 | 	Kiova	 | 	2624000
+Bucuresti	 | 	Romania	 | 	Bukarest	 | 	2016131
+Budapest	 | 	Hungary	 | 	Budapest	 | 	1811552
