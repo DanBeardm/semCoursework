@@ -122,5 +122,35 @@ public class Database {
         return cities;
 
     }
+
+    /**
+     * Gets population based on query
+     * @return ArrayList of population
+     */
+    public ArrayList<Population> getPopulation(String sql, String target) {
+        ArrayList<Population> population = new ArrayList<>();
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(sql);
+            while (rset.next()) {
+                Population p = new Population();
+                p.target= target;
+                p.population = rset.getInt(1);
+                population.add(p);
+            }
+
+
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed");
+        }
+
+        return population;
+
+    }
 }
 

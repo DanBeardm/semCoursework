@@ -1,9 +1,9 @@
 All the countries in a region organised by largest population to smallest
-BVT	 | 	null	 | 	0	 | 	Bouvet Island	 | 	Antarctica	 | 	Antarctica	 | 	
-SGS	 | 	null	 | 	0	 | 	South Georgia and the South Sandwich Islands	 | 	Antarctica	 | 	Antarctica	 | 	
-ATF	 | 	null	 | 	0	 | 	French Southern territories	 | 	Antarctica	 | 	Antarctica	 | 	
 ATA	 | 	null	 | 	0	 | 	Antarctica	 | 	Antarctica	 | 	Antarctica	 | 	
+ATF	 | 	null	 | 	0	 | 	French Southern territories	 | 	Antarctica	 | 	Antarctica	 | 	
+BVT	 | 	null	 | 	0	 | 	Bouvet Island	 | 	Antarctica	 | 	Antarctica	 | 	
 HMD	 | 	null	 | 	0	 | 	Heard Island and McDonald Islands	 | 	Antarctica	 | 	Antarctica	 | 	
+SGS	 | 	null	 | 	0	 | 	South Georgia and the South Sandwich Islands	 | 	Antarctica	 | 	Antarctica	 | 	
 AUS	 | 	135	 | 	18886000	 | 	Australia	 | 	Oceania	 | 	Australia and New Zealand	 | 	
 NZL	 | 	3499	 | 	3862000	 | 	New Zealand	 | 	Oceania	 | 	Australia and New Zealand	 | 	
 CXR	 | 	1791	 | 	2500	 | 	Christmas Island	 | 	Oceania	 | 	Australia and New Zealand	 | 	
@@ -32,8 +32,8 @@ GRD	 | 	916	 | 	94000	 | 	Grenada	 | 	North America	 | 	Caribbean	 |
 VIR	 | 	4067	 | 	93000	 | 	Virgin Islands, U.S.	 | 	North America	 | 	Caribbean	 | 	
 DMA	 | 	586	 | 	71000	 | 	Dominica	 | 	North America	 | 	Caribbean	 | 	
 ATG	 | 	63	 | 	68000	 | 	Antigua and Barbuda	 | 	North America	 | 	Caribbean	 | 	
-KNA	 | 	3064	 | 	38000	 | 	Saint Kitts and Nevis	 | 	North America	 | 	Caribbean	 | 	
 CYM	 | 	553	 | 	38000	 | 	Cayman Islands	 | 	North America	 | 	Caribbean	 | 	
+KNA	 | 	3064	 | 	38000	 | 	Saint Kitts and Nevis	 | 	North America	 | 	Caribbean	 | 	
 VGB	 | 	537	 | 	21000	 | 	Virgin Islands, British	 | 	North America	 | 	Caribbean	 | 	
 TCA	 | 	3423	 | 	17000	 | 	Turks and Caicos Islands	 | 	North America	 | 	Caribbean	 | 	
 MSR	 | 	2697	 | 	11000	 | 	Montserrat	 | 	North America	 | 	Caribbean	 | 	
@@ -150,8 +150,8 @@ ASM	 | 	54	 | 	68000	 | 	American Samoa	 | 	Oceania	 | 	Polynesia	 |
 COK	 | 	583	 | 	20000	 | 	Cook Islands	 | 	Oceania	 | 	Polynesia	 | 	
 WLF	 | 	3536	 | 	15000	 | 	Wallis and Futuna	 | 	Oceania	 | 	Polynesia	 | 	
 TUV	 | 	3424	 | 	12000	 | 	Tuvalu	 | 	Oceania	 | 	Polynesia	 | 	
-TKL	 | 	3333	 | 	2000	 | 	Tokelau	 | 	Oceania	 | 	Polynesia	 | 	
 NIU	 | 	2805	 | 	2000	 | 	Niue	 | 	Oceania	 | 	Polynesia	 | 	
+TKL	 | 	3333	 | 	2000	 | 	Tokelau	 | 	Oceania	 | 	Polynesia	 | 	
 PCN	 | 	2912	 | 	50	 | 	Pitcairn	 | 	Oceania	 | 	Polynesia	 | 	
 BRA	 | 	211	 | 	170115000	 | 	Brazil	 | 	South America	 | 	South America	 | 	
 COL	 | 	2257	 | 	42321000	 | 	Colombia	 | 	South America	 | 	South America	 | 	
