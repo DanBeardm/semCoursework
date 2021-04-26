@@ -1,6 +1,0 @@
-The top N populated countries in the world where N is provided by the user
-CHN	 | 	1891	 | 	1277558000	 | 	China	 | 	Asia	 | 	Eastern Asia	 | 	
-IND	 | 	1109	 | 	1013662000	 | 	India	 | 	Asia	 | 	Southern and Central Asia	 | 	
-USA	 | 	3813	 | 	278357000	 | 	United States	 | 	North America	 | 	North America	 | 	
-IDN	 | 	939	 | 	212107000	 | 	Indonesia	 | 	Asia	 | 	Southeast Asia	 | 	
-BRA	 | 	211	 | 	170115000	 | 	Brazil	 | 	South America	 | 	South America	 | 	

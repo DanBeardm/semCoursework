@@ -243,6 +243,62 @@ public class App
                 "The top N populated cities in a region where N is provided by the user."
         );
 
+        // The population of the world.
+        ArrayList<Population> r17 = db.getPopulation(
+                "SELECT SUM(country.Population) FROM country","World");
+        OutputInput.saveToFile(
+                r17,
+                "report17",
+                "The population of the world."
+        );
+
+        // The population of Europe.
+        ArrayList<Population> r18 = db.getPopulation(
+                "SELECT SUM(country.Population) FROM country WHERE country.Continent = 'Europe'","Europe");
+        OutputInput.saveToFile(
+                r18,
+                "report18",
+                "The population of Europe."
+        );
+
+        // The population of Eastern Europe.
+        ArrayList<Population> r19 = db.getPopulation(
+                "SELECT SUM(country.Population) FROM country WHERE country.Region = 'Eastern Europe'","Eastern Europe");
+        OutputInput.saveToFile(
+                r19,
+                "report19",
+                "The population of Eastern Europe."
+        );
+
+        // The population of Barbados
+        ArrayList<Population> r20 = db.getPopulation(
+                "SELECT country.Population FROM country WHERE country.Name = 'Barbados","Barbados");
+        OutputInput.saveToFile(
+                r20,
+                "report20",
+                "The population of Barbados."
+        );
+
+
+        // The population of Noord-Brabant'
+        ArrayList<Population> r21 = db.getPopulation(
+                "SELECT SUM(city.Population) FROM city WHERE city.District = 'Noord-Brabant'","Noord-Brabant'");
+        OutputInput.saveToFile(
+                r21,
+                "report21",
+                "The population of district Noord-Brabant'."
+        );
+
+        // The population of New York
+        ArrayList<Population> r22 = db.getPopulation(
+                "SELECT city.Population FROM city WHERE city.Name = 'New York'","New York");
+        OutputInput.saveToFile(
+                r22,
+                "report22",
+                "The population of NYC."
+        );
+
+
 
         // Disconnect from database
         db.disconnect();

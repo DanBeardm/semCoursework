@@ -1,2 +1,0 @@
-All the cities in a district organised by largest population to smallest.
-Praha	 | 	Czech Republic	 | 	Hlavní mesto Praha	 | 	1181126
