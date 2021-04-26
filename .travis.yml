@@ -34,7 +34,7 @@ jobs:
       # Package (build) the JAR
       - mvn package -DskipTests=true -Dmaven.javadoc.skip=true
       before_deploy:
-        # Set up git user name and tag this commit
+        # Set up git user name
         - git config --local user.name "Albert Hadacek"
         - git config --local user.email "40446686@live.napier.ac.uk"
         # Create temporary tag from date and Git log.
